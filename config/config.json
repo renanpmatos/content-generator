@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "name": "Renan Matos",
+    "area": "Desenvolvedor backend",
+    "interests": [
+      "Tecnologia",
+      "Python",
+      "IA"
+    ],
+    "tone": "casual-profissional"
+  },
+  "ollama": {
+    "model": "llama3.2:3b",
+    "temperature": 0.7,
+    "max_tokens": 500
+  },
+  "storage": {
+    "download_images": "posted",
+    "keep_drafts_days": 30,
+    "compress_images": true,
+    "max_storage_mb": 200
+  },
+  "posting": {
+    "frequency": 3,
+    "preferred_days": [
+      "segunda",
+      "quarta",
+      "sexta"
+    ]
+  }
+}
