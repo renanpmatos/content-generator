@@ -1,0 +1,3 @@
+./assets/downloaded_images/
+./database/__pycache__/
+.env
